@@ -1,0 +1,43 @@
+body
+{
+    background-image: url("grad5.jpg");
+}
+#tabela
+{
+    border-collapse: collapse;
+    border: 2px solid black;
+    table-layout: fixed; width: 100%; 
+}
+#text
+{
+    color:blue
+}  
+#center
+{
+    text-align: center;
+}
+#left
+{
+    float: left;
+    width: 33%;
+}
+#mid
+{
+    float: left;
+    width: 34%;
+    text-align: center;
+}
+#right
+{
+    float: left;
+    width: 33%;
+    text-align: right;
+}
+#stopka
+{
+    line-height: 200px;
+    font-size: 50px;
+    text-align: center;
+    clear: both;
+
+}
